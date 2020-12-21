@@ -9,3 +9,5 @@ Creo ahora tengo Los conceptos mas claros
 Espero que en poco tiempo poder entrar a realizar 
 
 un texto igual pero diciendo que ahora ya soy un Developer
+
+modificacion del texto des de otra rama
